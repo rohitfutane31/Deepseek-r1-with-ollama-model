@@ -1,0 +1,136 @@
+Deepseek  project 1,2.
+
+
+
+about chatgpt 
+chatgpt ( you never develop any code freely)
+vs
+deepseek llm ( chinsee company)
+
+1- introduction is done
+---
+top llm -->
+----
+chatgpt - openai
+gemin - google
+llama - meta
+deepsee co ltd - deepseek model
+antropic -- claude
+qwen model -- alibaba
+==== 
+
+chatgpt == deepseek 
+deepseek -== high flery research unit
+
+high fleyrs is -- stock & trade platfrom 
+deepseek launched -- market crased 
+
+450 million parameter 
+
+CAR( wheels, seat, stearig)
+
+5 seater car 
+7 seater car ( has more parater) more cost 
+
+many llm model
+
+deepseek (670 billion paramet)  give more information compare to other llm
+
+ 
+-- introduce
+-- deepseek vs chatgpt
+-- intro about deepseek
+-- scan the qr code
+-- deepseek model	 ( v2, v3, vl2, r1)
+-- what is mean by parameter 
+-- previous video ( you can undestan )
+-- practicle 
+
+deepseek model integrates with hugging face & also integrates with groq
+
+using ollam any use can build llm mode in custom. local machine any one can build the 
+deepseek. 
+
+most of the organization they are using ollama in their platform.
+
+------
+Project-01 :
+------
+1- google - type ollama.com
+2- after you open this page ( every model user can visibale)
+3- windows - download 
+4- after download please install it 
+5- vs code or cmd prompt
+6- we learned how to check version 
+7- ollama --version 
+	ollama
+	ollama pull deepseek-r1
+	ollama list
+	ollama run deepseek-r1
+8- we run deepseek model locally 
+====
+9- vs code 
+10- create new file 
+11- langchain framework 
+		pip install --upgrade langchain langchain-community 
+		pip install -U langchain-ollama
+		pip install streamlit
+		
+12- langchain is framework to build llm model 
+		
+	custome model -- you can finetune llm model 
+	llm model -- chatgpt has develope ( you cannot finetune)
+	
+		
+		
+machine learning  -- trained historical labeld data ( excel, csv ) to build predict model by using algorithm
+	regression 
+	classificaiton
+	clustering
+		user hast to traind
+
+NLP, DL, 
+	develoer trained data unsupservie( text, image , video, sensor, drone)
+		user has to train 
+		
+geneartive ai 
+	user no need to the train the data 
+		data has pretrained by openaai, deepseek, gemin, llama 
+	pretrained model done by -- bert, transformer, transfer learning
+	gan
+	vqgan
+	taming transform
+	autoencode
+	
+====
+you will get errros only 1 reason ( ollama not install proper, reinstall again, 
+				1st more space required
+I tried with other using ollama but deepseek-r1 locally
+====
+
+project:2 -->
+	deepseek integration using openrouter
+	
+interface -->
+	hugging face
+	groq 
+	openairouter
+
+1- googe 
+2- openrouter.ai
+3- search model box -- type deepseek -r1 free
+4- scroll down -- create api key 
+5- copy api key -- 
+6- copy the opeani-python integration code
+7- google - google colab - crate new notebook
+
+=======
+list of topics completed  today -->
+===
+1- about me
+2- intro deepseek
+3- deepseek vs chatgpt
+4- ml vs ai vs generative ai 
+5- ollama in system cmd
+6- project -- NARESHIT BOT using deepseek-r1 ( ollama) custome api key
+7- openairouter.co -- generate api key( colab &Produce our respone)
